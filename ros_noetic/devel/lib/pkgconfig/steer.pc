@@ -1,0 +1,8 @@
+prefix=/root/code/snowplough/devel
+
+Name: steer
+Description: Description of steer
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

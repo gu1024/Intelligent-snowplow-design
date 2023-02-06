@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/code/snowplough/devel_isolated/steer/setup.sh

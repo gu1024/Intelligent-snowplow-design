@@ -1,0 +1,2 @@
+steer
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/root/code/snowplough/devel_isolated -DCMAKE_INSTALL_PREFIX=/root/code/snowplough/install_isolated

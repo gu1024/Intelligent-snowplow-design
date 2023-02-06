@@ -1,0 +1,2 @@
+steer
+-DCATKIN_DEVEL_PREFIX=/root/code/snowplough/devel -DCMAKE_INSTALL_PREFIX=/root/code/snowplough/install -G Unix Makefiles
