@@ -1,8 +1,0 @@
-prefix=/root/code/snowplough/install_isolated
-
-Name: steer
-Description: Description of steer
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
